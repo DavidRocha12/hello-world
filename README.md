@@ -9,3 +9,4 @@ tenho muito a aprender e estou enpolgado para isso, e minha intenção é ser um
 
 Aqui contém apostila do Curso de Python - Mundo 1
 Exercícios e respostas minhas.
+Em alguns exercícios tem alguns comentários que achei necessário.
