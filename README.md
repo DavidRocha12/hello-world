@@ -5,7 +5,7 @@ Meus Projetos
 Olá! 
 
 Estou fazendo o curso de Python, e estou iniciando no ramo da programação,
-tenho muito a aprender e estou enpolgado para isso, e minha intenção é ser um grande profissional da programação.
+tenho muito a aprender e estou empolgado para isso, e minha intenção é ser um grande profissional da programação.
 
 Aqui contém apostila do Curso de Python - Mundo 1
 Exercícios e respostas minhas.
