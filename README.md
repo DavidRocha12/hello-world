@@ -1,4 +1,6 @@
-Meus Exercícios Python
+EXer
+
+Meus Exercícios Python exercícios aula Prof. Guanabara.
 
 Meus Projetos
 
